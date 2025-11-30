@@ -1,0 +1,35 @@
+$Best_Params
+$Best_Params$objective
+[1] "binary:logistic"
+
+$Best_Params$eval_metric
+[1] "auc"
+
+$Best_Params$max_depth
+[1] 15
+
+$Best_Params$eta
+[1] 0.05
+
+$Best_Params$subsample
+[1] 0.8
+
+$Best_Params$colsample_bytree
+[1] 0.6
+
+
+$Best_nrounds
+[1] 47
+
+$Accuracy
+[1] 0.8300532
+
+$Precision
+[1] 0.8010778
+
+$Recall
+[1] 0.7705865
+
+$AUC
+Area under the curve: 0.9095
+
